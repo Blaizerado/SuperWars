@@ -1,0 +1,5 @@
+main: de.ilovejava.superwars.SuperWars
+author: ILoveJava
+name: SuperWars
+version: 0.9.2
+depend: [Citizens,Multiverse-Core] 
